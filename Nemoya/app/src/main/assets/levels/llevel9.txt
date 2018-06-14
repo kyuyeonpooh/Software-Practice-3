@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 
+0 0 2 1 2 2 1 2 0 0 0 0 0 0 0 
+0 2 6 8 6 7 10 2 12 12 11 9 7 0 0 
+6 2 2 1 1 1 1 1 1 1 2 1 2 8 6 
+0 0 0 0 0 0 0 7 
+0 0 0 0 0 0 2 4 
+0 0 0 0 0 0 2 9 
+0 0 0 0 0 0 1 11 
+0 0 0 0 1 2 1 7 
+0 0 0 0 1 2 2 7 
+0 0 0 0 0 1 5 7 
+0 0 0 0 0 1 5 7 
+0 0 0 0 0 1 5 7 
+0 0 0 0 1 5 4 2 
+0 0 0 0 0 1 8 2 
+0 0 0 0 0 2 6 1 
+0 0 0 0 0 0 2 2 
+0 0 0 0 0 0 0 7 
+0 0 0 0 0 0 0 0 
+empty empty empty empty #a90033 #a60032 #a30133 #a30133 #a40033 #a70033 #a40033 empty empty empty empty 
+empty empty #b0194c #a40032 empty empty empty empty #a40033 #a40033 #a40033 #a30333 empty empty empty 
+empty #a40033 #9f0333 empty #aa0033 #a20232 #a40033 #a40033 #a40033 #a40033 #a40033 #a40033 #9d0433 empty empty 
+empty #a40032 empty #a40033 #a40032 #ac0034 #a20133 #a00336 #a40033 #a40033 #a40033 #a40033 #a40033 #a50737 empty 
+#a30032 empty #a3002f #9f0333 empty empty #ab0036 empty #a40033 #a40033 #a40033 #a40033 #a40033 #a40033 #a40033 
+#a40033 empty #a00232 #a40033 empty #a50032 #ab0036 empty #a40033 #a40033 #a40033 #a40033 #a40033 #a40033 #a40033 
+#a40033 empty #a40033 #a40033 #a40033 #a40033 #ab0036 empty #a40033 #a40033 #a40033 #a40033 #a40033 #a20031 #a40033 
+#a60032 empty #a40033 #a40033 #a40033 #a40033 #ab0036 empty #a40033 #a40033 #a40033 #a40033 #a40031 #a50436 #a40033 
+#a40032 empty #a40033 #a40033 #a40033 #a40033 #ab0036 empty #a40033 #a40033 #a40033 #a40033 #a40033 #a30031 #a40033 
+#a40032 empty #a40033 #a40033 #a40033 #a40033 #ab0036 empty #a00735 #a40033 #a40033 #a40033 empty #aa0033 #a40033 
+empty #a40033 empty #a40033 #a40033 #a40033 #a60033 #a40033 #a40033 #a40033 #a40033 empty #9f0332 #aa0033 empty 
+empty #a40033 #a40033 empty #a40032 #a40033 #a40033 #a40033 #a40033 #a40032 empty empty #a50133 empty empty 
+empty empty #a3043a #a60033 empty empty empty empty empty empty #a40033 #a1012f empty empty empty 
+empty empty empty empty #a80033 #a30133 #a40033 #a40033 #a40033 #9d0432 #970431 empty empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 

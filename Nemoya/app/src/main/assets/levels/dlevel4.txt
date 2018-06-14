@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 
+1 4 1 6 5 0 1 0 0 1 1 0 0 0 0 
+3 1 3 2 2 7 2 3 3 1 2 3 1 0 0 
+3 1 1 4 4 4 5 1 5 5 4 4 5 7 3 
+0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 4 1 
+0 0 0 0 0 0 0 9 
+0 0 0 0 0 0 6 1 
+0 0 0 0 0 0 0 10 
+0 0 0 0 0 0 5 1 
+0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 4 5 
+0 0 0 1 4 1 2 1 
+0 0 0 1 1 1 2 3 
+0 0 0 0 0 1 5 7 
+0 0 0 0 0 1 5 7 
+0 0 0 0 0 1 4 6 
+0 0 0 0 0 0 4 5 
+0 0 0 0 0 0 0 0 
+#fceefb empty empty #eef8f7 empty empty empty #000000 empty empty empty empty empty empty empty 
+empty #f6edf0 #040000 #000012 #040500 empty empty #000004 empty empty empty empty empty empty empty 
+#f2fdef #1c2a2b #40c206 #4dc204 #4dc204 #000000 #020305 #000000 #000000 empty empty empty empty empty empty 
+#000000 #4dc204 #4dc204 #013600 #013600 #000000 empty empty #000000 empty empty empty empty empty empty 
+#fffbf0 #000000 #4dc204 #4dc204 #4dc204 #020403 #edf8f2 #ebf7f7 #010101 #000000 empty empty empty empty empty 
+empty empty #000000 #000000 #000000 #000000 #edf8f2 empty empty empty #000000 empty empty empty empty 
+empty empty empty empty empty #000000 empty empty empty empty empty #000000 empty empty empty 
+empty empty #010000 #000609 #000306 #00000a empty empty empty #000000 #000007 #000000 #040006 #000000 empty 
+empty #000000 empty #f70102 #fb0707 #f6dacf #000000 empty #0c0e09 empty #f90706 #fb0102 empty #000000 empty 
+#000000 empty #f30100 empty empty empty #000000 empty #000000 #f50000 empty empty #faf0ee #fe272c #000000 
+#000000 empty #fd0100 #fc0704 #ff0111 #ec0002 #000000 empty #000000 #f40002 #f40405 #fa071d #f50000 #ff221b #000000 
+#000000 empty #fd0100 #fa0600 #e90101 #fe0003 #000000 empty #000000 #fa0100 #ff0900 #f90602 #f60001 #ed1c24 #000000 
+empty #000000 empty #d20202 #cd0301 #c20000 #000000 empty #000000 #ed1c24 #ed1c24 #ed1c24 #ed1c24 #000200 empty 
+empty empty #000000 #000000 #000000 #000000 empty empty empty #000000 #000000 #000000 #000000 #efefed empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 

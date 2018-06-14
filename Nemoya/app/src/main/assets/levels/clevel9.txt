@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 
+0 1 1 7 3 5 0 0 0 0 0 0 0 0 0 
+0 3 3 1 2 4 0 0 0 0 1 1 0 0 0 
+4 2 2 2 3 2 15 14 13 13 10 3 2 1 0 
+0 0 0 0 0 0 0 2 
+0 0 0 0 0 0 0 4 
+0 0 0 0 0 0 0 8 
+0 0 0 0 0 0 0 8 
+0 0 0 0 0 1 1 5 
+0 0 0 0 0 1 3 6 
+0 0 0 0 0 1 3 5 
+0 0 0 0 0 1 3 5 
+0 0 0 0 0 2 1 6 
+0 0 0 0 0 0 2 7 
+0 0 0 0 0 0 0 10 
+0 0 0 0 0 0 0 6 
+0 0 0 0 0 0 1 6 
+0 0 0 0 0 0 1 10 
+0 0 0 0 0 0 1 11 
+empty empty empty empty empty #f2da3a #f2da3a empty empty empty empty empty empty empty empty 
+empty empty empty empty #f2da3a #f2da3a #f2da3a #f2da3a empty empty empty empty empty empty empty 
+empty empty empty #3ad936 #31dd2f #31dd2f #31dd2f #f2da3a #f2da3a #f2da3a #f2da3a empty empty empty empty 
+empty empty #31dd2f #31dd2f #31dd2f #31dd2f #31dd2f #31dd2f #f2da3a #f2da3a empty empty empty empty empty 
+empty #31dd2f empty #31dd2f empty #31dd2f #31dd2f #31dd2f #28d926 #f2da3a empty empty empty empty empty 
+#31dd2f empty #000000 #31dd2f #000000 empty #31dd2f #31dd2f #1fdc37 #f2da3a #f2da3a #f4d636 empty empty empty 
+#31dd2f empty #000000 #31dd2f #000000 empty #31dd2f #31dd2f #31dd2f #31dd2f #f2da3a empty empty empty empty 
+#31dd2f empty #000000 #31dd2f #000000 empty #31dd2f #31dd2f #31dd2f #20d621 #f1d333 empty empty empty empty 
+#31dd2f #31dd2f empty #31dd2f empty #31dd2f #31dd2f #31dd2f #23d835 #20d72d #f2da3a empty empty empty empty 
+empty #000000 #000000 empty #000000 #000000 #31dd2f #31dd2f #f2da3a #2ae02c #f2da3a empty empty empty empty 
+empty #31dd2f #31dd2f #42de4d #31dd2f #32d32f #31dd2f #f2da3a #f2da3a #f2da3a #31dd2f empty empty empty empty 
+empty empty empty empty empty #e6f1ff #31dd2f #f5d745 #f2da3a #f2da3a #31dd2f empty empty empty empty 
+empty empty empty empty #fcd64d empty #31dd2f #31dd2f #f2da3a #f2da3a #31dd2f #f2da3a empty empty empty 
+empty #fcd64d empty #fcd64d #fcd64d #fcd64d #fcd64d #31dd2f #31dd2f #31dd2f #31dd2f #31dd2f #f2da3a empty empty 
+empty #e7eabf empty #eee1b4 #f2e2b1 #f2e094 #eedb8e #31dd2f #31dd2f #31dd2f #36de33 #31dd2f #31dd2f #31dd2f empty 

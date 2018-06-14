@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 5 6 7 3 6 0 0 0 6 3 7 6 5 0 
+1 2 3 3 6 6 13 13 13 6 6 3 3 2 2 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 5 
+0 0 0 0 0 0 0 7 
+0 0 0 0 0 0 0 9 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 3 5 3 
+0 0 0 0 0 3 5 3 
+0 0 0 0 0 4 3 4 
+0 0 0 0 0 0 0 15 
+0 0 0 0 0 0 0 13 
+0 0 0 0 0 0 0 7 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 0 13 
+0 0 0 0 0 0 0 14 
+0 0 0 0 0 0 0 0 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 
+empty empty empty empty empty #983307 #983307 #983307 #983307 #983307 empty empty empty empty empty 
+empty empty empty empty #953600 #983307 #983307 #983307 #983307 #983307 #983305 empty empty empty empty 
+empty empty empty #9b3300 #993400 #983307 #963500 #983307 #983307 #983307 #9c3103 #993400 empty empty empty 
+empty empty #983307 #000000 #000000 #983307 #983307 #983307 #983307 #983307 #000103 #000000 #993400 empty empty 
+empty #983307 #983307 #983307 empty #030207 #953503 #943509 #983307 #0b0000 empty #923702 #943602 #913800 empty 
+empty #983307 #983307 #983307 empty #040003 #020109 #030c09 #060f0a #00070f empty #9a3612 #9e3311 #9c3610 empty 
+#983307 #983307 #983307 #983307 empty empty #983307 #983307 #983307 empty empty #983307 #983307 #983307 #983307 
+#983307 #983307 #983307 #983307 #993408 #983307 #983307 #9d310d #983307 #983307 #983307 #9e3106 #a13006 #a13006 #983307 
+empty #9b3205 #983307 #943603 #923603 #f5c9b0 #f5c9b0 #f5c9b0 #f5c9b0 #f5c9b0 #983307 #923603 #983307 #983307 empty 
+empty empty empty empty #f5c9b0 #f5c9b0 #f5c9b0 #f5c9b0 #f5c9b0 #f5c9b0 #f5c9b0 empty empty empty empty 
+empty empty #000000 #000000 #f5c9b0 #f5c9b0 #f5c9b0 #f5c9b0 #f5c9b0 #f5c9b0 #f5c9b0 #000000 #000000 empty empty 
+empty #000000 #000000 #000000 #000000 #02000e #f5c9b0 #f5c9b0 #f5c9b0 #030301 #000000 #000000 #000000 #000000 empty 
+#e9e9e9 #000000 #000000 #000000 #000000 #000000 #020100 #f5c9b0 #f5c9b0 #000000 #000000 #000000 #000000 #000000 empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 

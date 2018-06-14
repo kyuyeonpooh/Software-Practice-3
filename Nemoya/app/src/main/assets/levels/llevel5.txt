@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+0 0 2 3 0 0 2 4 6 3 3 0 0 0 0 
+1 3 2 3 9 8 2 3 1 3 3 6 4 2 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 2 
+0 0 0 0 0 0 0 4 
+0 0 0 0 0 0 0 6 
+0 0 0 0 0 0 3 3 
+0 0 0 0 0 0 5 3 
+0 0 0 0 0 0 3 6 
+0 0 0 0 0 0 5 4 
+0 0 0 0 0 0 7 2 
+0 0 0 0 0 2 2 2 
+0 0 0 0 0 0 0 7 
+0 0 0 0 0 0 0 5 
+0 0 0 0 0 0 0 3 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 
+empty empty empty empty empty empty empty empty empty #e21232 #ffdfe4 empty empty empty empty 
+empty empty empty empty empty empty empty empty #e61336 #e51837 #e51837 #c44153 empty empty empty 
+empty empty empty empty empty empty empty #e6153c #e51837 #e51837 #e51837 #e51837 #d81d38 empty empty 
+empty empty empty empty empty empty #e2193d #e51837 #e11a39 empty empty #ec1439 #e51839 #e91636 empty 
+empty empty empty empty #4c8dab #d4667f #e51839 #e51837 #dd1c3b empty empty #e7173b #e51837 #e21a37 empty 
+empty empty empty #09769f #0277ac #0377a8 empty #e81639 #e71737 #d71f39 #e71737 #e51837 #e71836 empty empty 
+empty empty #0079b0 #0376ac #0078ad #0277ad #007ba3 empty #e7163e #e41936 #e51837 #e01b37 empty empty empty 
+empty #0678b6 #086590 #136d90 #0774af #0275b8 #85c0e2 #0279b3 empty #e31a50 #b21f3c empty empty empty empty 
+#0078bb #0276af empty empty #066fa9 #fefcf0 empty #edffff #007aad empty empty empty empty empty empty 
+empty #0476ac #146992 #186788 #0079a8 #0077ae #edffff #0075b5 empty empty empty empty empty empty empty 
+empty empty #057aaf #007aaa #0078ad #0078ad #0078ad empty empty empty empty empty empty empty empty 
+empty empty empty #127cb0 #0079ac #0278aa empty empty empty empty empty empty empty empty empty 
+empty empty empty empty #62a2c5 empty empty empty empty empty empty empty empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 

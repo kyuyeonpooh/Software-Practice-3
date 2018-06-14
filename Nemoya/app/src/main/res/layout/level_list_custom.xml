@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TableLayout
+            android:id="@+id/table_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:stretchColumns="*">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_height="20dp"
+                    android:layout_span="3" />
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:id="@+id/my_page_title"
+                    android:layout_height="55dp"
+                    android:layout_span="3"
+                    android:gravity="center_horizontal"
+                    android:text="@string/category4"
+                    android:textSize="30sp" />
+            </TableRow>
+
+            <TableRow>
+                <LinearLayout android:orientation="horizontal"
+                    android:layout_gravity="center"
+                    android:layout_span="3">
+                    <Button
+                        android:id="@+id/create_level"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:background="#c3f9b7"
+                        android:text="  나만의 퍼즐 만들기  "
+                        android:shadowRadius="3.0"
+                        android:textSize="16dp"/>
+                    <Button
+                        android:id="@+id/delete_level"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:background="#f5c5f4"
+                        android:text="  나만의 퍼즐 지우기  "
+                        android:shadowRadius="3.0"
+                        android:textSize="16dp"/>
+                </LinearLayout>
+            </TableRow>
+
+        </TableLayout>
+
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/star1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:clickable="false"
+        android:paddingRight="160dp"
+        android:src="@drawable/yellow_star2"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/star2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:clickable="false"
+        android:src="@drawable/yellow_star2"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/star3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:clickable="false"
+        android:paddingLeft="160dp"
+        android:src="@drawable/yellow_star2"
+        android:visibility="invisible" />
+
+</FrameLayout>

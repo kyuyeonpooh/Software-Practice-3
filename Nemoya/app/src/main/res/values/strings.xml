@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nemoya</string>
+    <string name="app_name_k">네모야</string>
+    <string name="developers">Made by.</string>
+    <string name="developers_name">Hanna Park, Kyuyeon Kim, Yeonjae Kim</string>
+    <string name="developers_name_kor">개발자: 김규연, 김연재, 박한나</string>
+    <string name="background_music">배경음악</string>
+    <string name="title_message">Press anywhere to start</string>
+    <string name="category1">캐릭터</string>
+    <string name="category2">동물과 식물</string>
+    <string name="category3">로고</string>
+    <string name="category4">나만의 퍼즐</string>
+    <string name="num_ticket">3</string>
+</resources>

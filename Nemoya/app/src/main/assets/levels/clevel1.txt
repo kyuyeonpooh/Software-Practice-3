@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 4 0 0 0 0 0 0 1 7 6 4 0 
+2 5 6 5 11 11 11 11 10 10 7 2 2 3 4 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 6 3 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 7 3 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 0 10 
+0 0 0 0 0 0 0 9 
+0 0 0 0 0 0 10 1 
+0 0 0 0 0 0 11 2 
+0 0 0 0 0 0 0 15 
+0 0 0 0 0 0 0 14 
+0 0 0 0 0 0 0 7 
+0 0 0 0 0 0 0 2 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 
+empty empty empty empty #e00a0a #e00a0a #e00a0a #e00a0a #e00a0a #e00a0a empty #efe4b0 #efe4b0 #efe4b0 empty 
+empty empty empty #e00a0a #da0f09 #dd0d0b #dd0d0b #dd0d0b #dd0d0b #e10b0b #de0c0d #dd0d0b #efe4b0 #efe4b0 empty 
+empty empty empty #55421a #584012 #584012 #efe4b0 #000000 #efe4b0 #efe4b0 empty #e00a0c #de0c0b #e00a0a empty 
+empty empty empty #efe4b0 #594113 #efe4b0 #efe4b0 #000000 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #e5060b #e00a0a empty 
+empty empty empty #584014 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #020305 #080000 #090200 #e00a0a empty empty 
+empty empty empty empty #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #efe4b0 #e00a0a #dd0b0a empty empty 
+empty empty #de0c0f #dd0d0b #dd0d0b #dc0c0c #103cb7 #dd0c07 #dd0d0b #103cb7 #e00a0a #d50e11 empty empty #594115 
+#efe4b0 #efe4b0 #db0e0b #dd0d0b #dd0d0b #dd0d0b #103cb7 #103cb7 #103cb7 #103cb7 #103cb7 empty empty #594113 #594115 
+#efe4b0 #efe4b0 #efe4b0 #dc090f #de0d08 #de0806 #103cb7 #fff200 #103cb7 #103cb7 #103cb7 #103cb7 #123cb5 #594115 #594115 
+empty #efe4b0 #564318 #513b23 #103cb7 #103cb7 #103cb7 #103cb7 #103cb7 #103cb7 #103cb7 #103cb7 #123ab4 #5a4216 #594115 
+empty #5c420f #594314 #1639b1 #1038bb #0e3ab7 #0e39b9 #0f3bb4 empty empty empty empty empty empty empty 
+empty #4f4329 #4f4424 empty empty empty empty empty empty empty empty empty empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 

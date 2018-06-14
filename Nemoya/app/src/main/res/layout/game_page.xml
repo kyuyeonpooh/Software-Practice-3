@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/game_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:scrollbars="none"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:paddingTop="10dp"
+            android:layout_height="70dp"
+            android:scrollbars="none"
+            android:gravity="right"
+            android:paddingRight="10dp"
+            android:orientation="horizontal"
+            tools:ignore="RtlHardcoded,RtlSymmetry">
+
+            <TextView
+                android:id="@+id/ticket_button"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:paddingTop="6dp"
+                android:paddingRight="11dp"
+                android:background="@drawable/ticket"
+                android:scaleType="centerInside"
+                android:text="@string/num_ticket"
+                android:textAlignment="viewEnd"
+                android:textSize="37sp"
+                android:textColor="#4475a2"
+                android:soundEffectsEnabled="false"/>
+
+        </LinearLayout>
+
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <GridLayout
+                    android:id="@+id/grid_layout"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    android:columnCount="2"
+                    android:orientation="horizontal"
+                    android:rowCount="2"
+                    android:scrollbars="none">
+
+
+                    <ImageView
+                        android:id="@+id/game_corner"
+                        android:background="#FFFFFF"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                    <android.support.v7.widget.RecyclerView android:id="@+id/number_blocks_top" />
+
+                    <android.support.v7.widget.RecyclerView android:id="@+id/number_blocks_bottom" />
+
+                    <android.support.v7.widget.RecyclerView android:id="@+id/normal_blocks" />
+
+                </GridLayout>
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/game_clear"
+                android:src="@drawable/gameclear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:clickable="false"
+                />
+
+        </FrameLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:paddingTop="20dp"
+            android:layout_height="110dp"
+            android:scrollbars="none"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/coloring_button"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginEnd="20dp"
+                android:background="@android:color/transparent"
+                app:srcCompat="@drawable/coloring_btn_img"
+                android:scaleType="centerInside"
+                android:visibility="visible"
+                android:soundEffectsEnabled="false"/>
+
+            <ImageButton
+                android:id="@+id/crossing_button"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:background="@android:color/transparent"
+                app:srcCompat="@drawable/crossing_btn_img"
+                android:scaleType="centerInside"
+                android:visibility="visible"
+                android:soundEffectsEnabled="false"/>
+
+            <ImageButton
+                android:id="@+id/erase_button"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginStart="20dp"
+                android:background="@android:color/transparent"
+                app:srcCompat="@drawable/erase_btn_img"
+                android:scaleType="centerInside"
+                android:visibility="visible"
+                android:soundEffectsEnabled="false"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

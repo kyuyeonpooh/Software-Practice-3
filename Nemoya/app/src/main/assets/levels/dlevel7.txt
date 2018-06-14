@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 1 1 1 0 0 1 1 1 1 0 0 
+0 0 1 1 1 2 1 1 1 1 2 1 2 0 0 
+0 2 1 7 1 4 1 8 4 5 1 2 2 3 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 4 
+0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 1 1 
+0 0 0 1 2 4 1 1 
+0 0 0 3 1 2 1 2 
+0 0 0 1 1 2 1 1 
+0 0 0 0 0 2 4 1 
+0 0 0 1 1 1 2 1 
+0 0 0 1 1 1 1 1 
+0 0 0 1 1 1 1 1 
+0 0 0 0 2 1 1 1 
+0 0 0 0 0 0 0 0 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 
+empty empty empty empty empty empty #0d134d #101a3e #0d1238 #0d134d empty empty empty empty empty 
+empty empty empty empty empty #0d134d empty empty empty empty #00082d empty empty empty empty 
+empty empty empty empty #10193a empty empty empty empty empty empty #0a1148 empty empty empty 
+empty empty empty #101648 empty empty empty empty empty empty empty empty #131a34 empty empty 
+empty empty #040f2f empty empty empty empty empty empty empty empty empty empty #040b27 empty 
+empty #091434 empty #030f29 #17233b empty #161e4d #0c1442 #0d134d #0d134d empty #121c40 empty #101940 empty 
+empty #0f1b35 #0e1935 #0e1645 empty #0d1543 empty #0b1248 #000b27 empty #0c1442 empty #151e49 #000738 empty 
+empty empty empty #0a1240 empty #121a48 empty #0a0f4f #030d30 empty #09123d empty #16243f empty empty 
+empty empty empty #000723 #1f243a empty #2b3151 #363f60 #414c6a #0d134d empty #0d134d empty empty empty 
+empty empty empty #0d1543 empty #0f173b empty #040e31 empty #0b143b #0d134d empty #061336 empty empty 
+empty empty empty #0d1543 empty #111c3c empty #0e1448 empty #0d163d empty empty #0c1a37 empty empty 
+empty empty empty #0d1543 empty #031030 empty #091142 empty #050e2f empty #181b52 empty empty empty 
+empty empty empty empty #0d1543 #04122d empty #0b1538 empty #131c39 empty #00042a empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 

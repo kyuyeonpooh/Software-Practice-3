@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 3 0 3 3 3 3 0 0 0 0 0 0 0 
+0 3 1 3 1 1 1 1 3 3 0 4 3 3 0 
+9 2 3 1 3 3 3 3 1 1 3 2 1 3 0 
+4 2 1 3 1 1 1 1 3 3 2 1 2 4 15 
+0 0 0 0 0 0 0 15 
+0 0 0 0 0 0 0 15 
+0 0 0 0 0 0 0 15 
+0 0 0 0 0 1 1 1 
+0 0 0 0 0 1 8 1 
+0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 0 15 
+0 0 0 0 0 0 11 2 
+0 0 0 0 0 1 8 2 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 1 4 2 
+0 0 0 0 0 0 1 2 
+0 0 0 0 0 0 2 3 
+0 0 0 0 0 0 3 4 
+#242424 #323232 #292929 #272727 #191e18 #c12b36 #c32d36 #c72a35 #b92c32 #c12731 #de0d10 #222222 #212121 #242424 #2d2d2d 
+#0a0a0a #030303 #070707 #141615 #df0d0e #d40a0a #ca0405 #de0d10 #d20607 #de0d10 #cb090a #000d10 #000000 #0a0a0a #101010 
+#030303 #000000 #020202 #de0d10 #bf0802 #c60500 #c3090e #c60f0b #c50500 #bb0000 #c1120d #de0d10 #030303 #000000 #141414 
+#191919 empty empty empty empty empty empty empty empty empty empty #de0d10 empty empty #272727 
+#000000 empty #040404 #161616 #080808 #030303 #030303 #070707 #020202 #020202 empty empty empty empty #151515 
+#030303 empty empty empty empty empty empty empty empty empty empty #090909 empty empty #151515 
+#111111 #19191b #efd6b8 #f5d8ba #131313 #19171a #f5d8ba #20201e #131313 #f5dcbe #f5d8ba #f0d9ba #262626 #121212 #1e1e1e 
+#000000 #0a080b #f5d8ba #f5d8ba #000000 #000000 #f5d8ba #000000 #000000 #f5d8ba #f5d8ba empty empty #020202 #151515 
+#080808 empty #f5d8ba #f5d8ba #f5d8ba #ebc2c0 #ebc2c0 #f5d8ba #f5d8ba #f5d8ba empty empty empty #090909 #181818 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty #282828 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty #131313 
+#000000 empty empty empty #000000 #000000 #000000 #000000 empty empty empty empty empty #030303 #151515 
+#111111 empty empty empty empty empty empty empty empty empty empty empty empty #151515 #222222 
+#000000 #050505 empty empty empty empty empty empty empty empty empty empty #070707 #070707 #151515 
+#010101 #020202 #000000 empty empty empty empty empty empty empty empty #000000 #040404 #020202 #151515 

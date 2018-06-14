@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 3 0 0 0 1 0 0 0 0 0 0 
+0 0 5 0 1 1 1 0 1 3 0 5 5 0 0 
+2 3 3 10 2 2 3 7 2 2 10 3 3 2 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 2 3 
+0 0 0 0 0 0 5 5 
+0 0 0 0 0 0 5 5 
+0 0 0 0 0 0 0 12 
+0 0 0 0 0 2 1 3 
+0 0 0 0 0 1 1 1 
+0 0 0 0 0 3 2 3 
+0 0 0 0 0 2 2 3 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 0 8 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 
+empty empty #f19ba6 #ef9ca6 empty empty empty empty empty empty #f49aa6 #ef9ca6 #f19ba6 empty empty 
+#f19ba6 #f09aa3 #f19ba6 #ef9ca6 #ef9baa empty empty empty empty #ef9ba8 #f19ba6 #f19ba6 #f39cac #f29ca7 empty 
+#f19ba6 #f19ba6 #f19ba6 #f19ba6 #f19ba6 empty empty empty empty #eb9ea8 #f19ba6 #f19ba6 #f39da8 #f39ca5 empty 
+empty #f19ba6 #f19ba6 #f19ba6 #f19ba6 #f19ba6 #f59faa #f19ba6 #f19ba6 #f29ba4 #f19ba6 #f19ba4 #f19ba6 empty empty 
+empty empty #f19ba6 #f6a0a9 empty empty empty #f3a1ad empty empty #f6a1a8 #f19ba6 #f19ba6 empty empty 
+empty empty empty #f19ba6 empty empty empty #f499a8 empty empty #f29ba4 empty empty empty empty 
+empty empty #ef9ca4 #f19ba6 #51362f empty empty #f49aa6 #4a3a2a empty #f698a6 #f19ba6 #f19ba6 empty empty 
+empty empty #f698a6 #f19ba6 empty empty #880015 #880015 empty empty #f19ba6 #f29aa6 #f19ba6 empty empty 
+empty empty #f19ba6 #f19ba4 #f19ca3 #f19ba6 #f19ba6 #f19ba6 #f19ba4 #f19ba6 #f19ba6 #f19ba6 #f19ba6 empty empty 
+empty empty empty #ef9ba8 #f19ba6 #4f392e #4c3b31 #483a2d #4e382d #f19ba6 #f19ba6 empty empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 

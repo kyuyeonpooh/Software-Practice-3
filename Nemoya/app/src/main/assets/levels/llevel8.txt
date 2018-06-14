@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 3 5 6 7 7 6 6 6 6 4 5 4 3 0 
+1 3 3 4 5 5 5 6 6 6 6 5 4 3 2 
+0 0 0 0 0 0 0 6 
+0 0 0 0 0 0 0 9 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 0 13 
+0 0 0 0 0 0 0 13 
+0 0 0 0 0 0 10 4 
+0 0 0 0 0 0 4 1 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 2 7 
+0 0 0 0 0 0 0 13 
+0 0 0 0 0 0 0 13 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 0 9 
+0 0 0 0 0 0 0 7 
+0 0 0 0 0 0 0 0 
+empty empty empty empty #ffe5e3 #d72729 #f32227 #f21f28 #f1262c #de2431 empty empty empty empty empty 
+empty empty empty #eb2026 #e72a26 #ed262b #ed262b #ed262b #ed262b #ed262d #e6292f #d92224 empty empty empty 
+empty empty #f7262b #eb272b #ed2629 #ed262b #ed262b #ed262b #ed262b #ed2629 #ed262b #ee252b #ee1f29 empty empty 
+empty #d91f2d #f1232d #ed262b #ed262b #ed262b #ed262b #ed262b #ed262b #ed262b #ed262b #ed262b #ea262a #cf5154 empty 
+empty #ee252f #ed262b #ed262b #ed262b #ed262b #ed262b #ed262b #ed2629 #eb2729 #ee2629 #ed2629 #ea272b #e72b29 empty 
+#d37d8a #ea272b #ee252b #ee252d #ed262b #ec252a #f3242a #ee2327 #e4696c #ffdcdd empty #ffeaf2 #e97d7b #f9262d #fde4dd 
+empty empty #ea6e78 #cb3340 #d03d4d #f9c5c7 empty empty empty empty empty empty empty empty #d0a1a9 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 
+#597897 #768dad empty empty empty empty empty #5f769f #325896 #2d5392 #2d5392 #2d5392 #2b5494 #365d98 empty 
+empty #2c558b #2d5394 #2b5391 #2b5391 #2c5396 #2b5391 #2c5492 #2c5492 #2c5492 #2c5492 #2c5492 #2c5491 #2b5492 empty 
+empty #2c5291 #2d548f #2d5392 #2c5492 #2c5492 #2c5492 #2c5492 #2c5492 #2c5492 #2c5492 #2c5492 #2f5391 #274a80 empty 
+empty empty #285493 #2c5492 #2d5392 #2c5492 #2c5492 #2c5492 #2c5492 #2c5492 #2c5492 #2d548f #2b5398 empty empty 
+empty empty empty #275497 #2c5491 #2c5492 #2c5492 #2c5492 #2c5492 #2c5492 #2c5492 #295093 empty empty empty 
+empty empty empty empty #506793 #2656a0 #2c5291 #2b538e #2c5491 #2b5796 #6983a6 empty empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 

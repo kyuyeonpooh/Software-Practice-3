@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 2 2 2 0 0 0 0 0 0 
+0 0 0 3 2 2 5 3 1 2 2 0 0 0 0 
+15 15 15 2 2 2 2 2 2 2 2 15 15 15 15 
+0 0 0 0 0 0 0 15 
+0 0 0 0 0 0 0 15 
+0 0 0 0 0 0 4 4 
+0 0 0 0 0 0 3 4 
+0 0 0 0 0 0 3 4 
+0 0 0 0 0 3 1 4 
+0 0 0 0 0 3 2 4 
+0 0 0 0 0 3 3 4 
+0 0 0 0 0 3 2 4 
+0 0 0 0 0 3 1 4 
+0 0 0 0 0 0 3 4 
+0 0 0 0 0 0 3 4 
+0 0 0 0 0 0 3 4 
+0 0 0 0 0 0 0 15 
+0 0 0 0 0 0 0 15 
+#f70303 #f70303 #f70303 #f70303 #f70303 #f70303 #f70303 #f60403 #f70303 #f70303 #f70303 #f70303 #f70303 #f70303 #f60403 
+#f70303 #f70303 #f60403 #f60403 #f60403 #f60403 #f60403 #f60403 #f60403 #f60403 #f60403 #f60403 #f60403 #f60403 #f50302 
+#f30302 #f30302 #f30302 #ffeff1 empty empty empty empty empty empty empty #f30302 #f30302 #f30302 #f30302 
+#f30302 #f30302 #f30302 empty empty empty empty empty empty empty empty #f50206 #f30302 #f30302 #f30302 
+#f10303 #f10303 #f20404 empty empty empty empty empty empty empty empty #f50101 #f10303 #f10303 #f10303 
+#f10303 #f10303 #f10303 empty empty empty #f30302 empty empty empty empty #f10208 #f10303 #f10303 #f10303 
+#ef0303 #ef0303 #ef0303 empty empty empty #ef0303 #f30302 empty empty empty #ee0604 #ef0303 #ef0303 #ef0303 
+#ee0403 #ee0403 #ee0403 empty empty empty #ee0202 #ed0302 #f30302 empty empty #ed0503 #ee0403 #ee0403 #ee0403 
+#ec0404 #ec0404 #ec0404 empty empty empty #ec0404 #f30302 empty empty empty #ed0503 #ec0404 #ec0404 #ec0404 
+#ec0404 #ec0404 #ec0404 empty empty empty #f30302 empty empty empty empty #ed0501 #ec0404 #ec0404 #ec0404 
+#eb0303 #eb0303 #ed0304 empty empty empty empty empty empty empty empty #e60501 #eb0303 #eb0303 #eb0303 
+#e50304 #e70302 #e70302 empty empty empty empty empty empty empty empty #e50402 #e70302 #e70302 #e70302 
+#e50304 #e70302 #e70302 empty empty empty empty empty empty empty empty #e70304 #e70302 #e70302 #e70302 
+#e50304 #e50304 #e50304 #e50304 #e50304 #e40404 #e50304 #e50304 #e50304 #e50304 #e50304 #e50304 #e50304 #e50304 #e50304 
+#e30303 #e30303 #e30303 #e40203 #e30303 #e30303 #e30303 #e30303 #e40203 #e40203 #e40203 #e40203 #e40203 #e40203 #e40203 

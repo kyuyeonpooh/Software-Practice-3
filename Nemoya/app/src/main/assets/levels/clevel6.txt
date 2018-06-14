@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 2 7 8 9 9 0 0 9 9 8 7 0 0 0 
+2 2 2 3 5 5 15 15 5 5 1 2 5 7 7 
+0 0 0 0 0 0 0 8 
+0 0 0 0 0 0 0 10 
+0 0 0 0 0 0 0 10 
+0 0 0 0 0 0 0 10 
+0 0 0 0 0 0 10 2 
+0 0 0 0 0 0 10 2 
+0 0 0 0 0 0 0 14 
+0 0 0 0 0 0 0 15 
+0 0 0 0 0 1 6 3 
+0 0 0 0 0 0 2 4 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 1 7 
+0 0 0 0 0 0 0 10 
+0 0 0 0 0 0 0 9 
+0 0 0 0 0 0 0 6 
+empty empty empty #bc3905 #b2401b #ba3b08 #b93d19 #bc3905 #bc3905 #c04210 #bc3905 empty empty empty empty 
+empty empty #bf3b14 #bc3905 #bc3905 #bd3e11 #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 #b8441d empty empty empty 
+empty empty #bc3905 #bc3905 #b83717 #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 empty empty empty 
+empty empty #bc3905 #bc3905 #bc3905 #bc3500 #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 empty empty empty 
+empty empty #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 empty #d69457 #d69457 
+empty empty #bc3905 #bc3905 #d49359 #d89757 #d49359 #d49359 #d9985e #d49359 #bc3905 #bc3905 empty #d29866 #d69457 
+empty #bc3905 #bc3905 #bc3905 #d49359 #482511 #d49359 #d49359 #482714 #d49754 #bc3905 #bc3905 #bc3905 #d69457 #d69457 
+#bc3905 #bc3905 #bc3905 #bc3905 #d49359 #d49359 #d49359 #d49359 #d49359 #d49359 #bc3905 #bc3905 #bc3905 #bc3905 #bc3905 
+#b5472e empty empty empty #d49359 #d49359 #b73913 #b2430e #d49359 #d49359 empty empty #77abc1 #bc3905 #bc3905 
+empty empty empty empty empty empty #b07728 #b07728 empty empty empty #78aec6 #7eb2c7 #7eb2c7 #b4321c 
+empty empty empty empty #7eb2c7 #060a30 #c69970 #bc9554 #000127 #7eb2c7 #7eb2c7 #7eb2c7 #7eb2c7 #7eb2c7 #bc3905 
+#b38a4c empty empty #7eb2c7 #7eb2c7 #050e39 #7eb2c7 #7eb2c7 #050e39 #7eb2c7 empty empty empty empty empty 
+#b6855a #7bb5c9 #7eb2c7 #7eb2c7 #7eb2c7 #08113a #81aec3 #7eb2c7 #030e3b #7eb2c7 empty empty empty empty empty 
+empty #7eb2c7 #7cb0c6 #7eb2c7 #7eb2c7 #021037 #7cb0c6 #7eb2c7 #050e39 #79b3cb empty empty empty empty empty 
+empty empty empty empty #474e6b #474e6b #474e6b #474e6b #444969 #474e6b empty empty empty empty empty 

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/game_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:weightSum="10">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:layout_gravity="bottom|right"
+        android:gravity="bottom|right"
+        android:paddingRight="10dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/filename_input"
+            android:layout_width="242dp"
+            android:layout_height="40dp"
+            android:hint="파일이름 (최대 6글자)"
+            android:textSize="16dp"/>
+        <Button
+            android:id="@+id/submit_btn"
+            android:layout_width="100dp"
+            android:background="#cbebed"
+            android:layout_height="40dp"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="제출하기"/>
+    </LinearLayout>
+
+    <TableLayout
+        android:id="@+id/my_board"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center">
+        <TableRow android:gravity="center"
+            android:layout_gravity="center"
+            android:paddingTop="10dp">
+            <ImageButton
+                android:id="@+id/red_brush"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginEnd="15dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/red_brush"
+                android:scaleType="centerInside"
+                android:soundEffectsEnabled="false"/>
+            <ImageButton
+                android:id="@+id/orange_brush"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/orange_brush"
+                android:scaleType="centerInside"
+                android:soundEffectsEnabled="false"/>
+            <ImageButton
+                android:id="@+id/yellow_brush"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/yellow_brush"
+                android:scaleType="centerInside"
+                android:soundEffectsEnabled="false"/>
+            <ImageButton
+                android:id="@+id/green_brush"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginStart="15dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/green_brush"
+                android:scaleType="centerInside"
+                android:soundEffectsEnabled="false"/>
+        </TableRow>
+        <TableRow android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp">
+            <ImageButton
+                android:id="@+id/blue_brush"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginEnd="15dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/blue_brush"
+                android:scaleType="centerInside"
+                android:soundEffectsEnabled="false"/>
+            <ImageButton
+                android:id="@+id/purple_brush"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/purple_brush"
+                android:scaleType="centerInside"
+                android:soundEffectsEnabled="false"/>
+            <ImageButton
+                android:id="@+id/black_brush"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/black_brush"
+                android:scaleType="centerInside"
+                android:soundEffectsEnabled="false"/>
+            <ImageButton
+                android:id="@+id/eraser"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginStart="15dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/erase_btn_img"
+                android:scaleType="centerInside"
+                android:soundEffectsEnabled="false"/>
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>
+

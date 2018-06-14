@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/title_text"
+            android:text="스테이지 삭제"
+            android:textSize="23sp"
+            android:textColor="#fff"
+            android:gravity="center"
+            android:background="#ffed98"
+            android:layout_width="match_parent"
+            android:layout_height="53dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:padding="24dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:id="@+id/background_text"
+            android:text="지울 파일"
+            android:textSize="16sp"
+            android:textColor="@color/background_text"/>
+
+        <EditText
+            android:id="@+id/filename_delete"
+            android:layout_width="230dp"
+            android:layout_height="40dp"
+            android:hint="지울 파일 이름을 써주세요"
+            android:textSize="16dp"/>
+
+    </LinearLayout>
+
+    <View
+        android:background="#66bdbdbd"
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/delete_btn"
+            android:text="지우기"
+            android:textSize="18sp"
+            android:textColor="#ecda84"
+            android:padding="16dp"
+            android:gravity="center"
+            android:background="#00000000"
+            android:layout_width="wrap_content"
+            android:layout_height="53dp"
+            android:onClick="mOnCloseDelete"
+            android:soundEffectsEnabled="false"/>
+        <Button
+            android:id="@+id/close_btn"
+            android:text="취소"
+            android:textSize="18sp"
+            android:textColor="#ecda84"
+            android:padding="16dp"
+            android:gravity="center"
+            android:background="#00000000"
+            android:layout_width="wrap_content"
+            android:layout_height="53dp"
+            android:onClick="mOnCloseCancel"
+            android:soundEffectsEnabled="false"/>
+    </LinearLayout>
+
+</LinearLayout>

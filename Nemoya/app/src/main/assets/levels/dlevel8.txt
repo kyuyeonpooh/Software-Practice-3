@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 1 0 3 0 0 3 0 0 
+0 3 3 2 4 3 1 1 1 3 4 2 5 0 0 
+0 1 3 7 4 8 8 6 8 4 4 6 3 3 0 
+0 0 0 0 1 1 1 1 
+0 0 0 0 1 1 1 1 
+0 0 0 0 1 1 1 1 
+0 0 0 0 1 1 1 1 
+0 0 0 0 0 3 1 3 
+0 0 0 0 1 2 2 2 
+0 0 0 0 0 0 10 2 
+0 0 0 0 0 0 6 6 
+0 0 0 0 0 2 4 2 
+0 0 0 0 0 0 0 9 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 0 12 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 0 3 
+0 0 0 0 0 0 0 0 
+empty empty #243547 empty empty #1c2b48 empty empty empty #182841 empty empty #182841 empty empty 
+empty empty #182841 empty empty #182841 empty empty empty #182841 empty empty #182841 empty empty 
+empty empty #182841 empty empty #182841 empty empty empty #182841 empty empty #182841 empty empty 
+empty empty empty #182841 empty empty #182841 empty #182841 empty empty #182841 empty empty empty 
+empty empty #182841 #e44c65 #182841 empty empty #182841 empty empty #182841 #ed4e6c #182841 empty empty 
+empty #182841 empty empty #d9475c #182841 empty empty empty #182841 #e44c61 empty #99abb9 #182841 empty 
+empty #182841 #b85a75 #d1506c #d43c51 #d83f5b #182841 #182841 #182841 #bf1b36 #e34456 empty #b8b7c9 #182841 empty 
+empty #182841 #182841 #db4465 #da405c #d44056 #e14666 empty #d24857 #e4465d #e1505f #d5475d #182841 #182841 empty 
+empty empty #182841 #de496f empty #da445f #dc435f #d84154 #dd4157 empty empty #db4d63 #182841 empty empty 
+empty empty empty #182841 #267b5e #267b5e #232941 #2b2740 #267b5e #182841 #267b5e #182841 empty empty empty 
+empty empty #182841 #182841 #59c869 #59c869 #267b5e #59c869 #267b5e #1c2747 #267b5e #267b5e #18273a empty empty 
+empty #182841 #2c5c32 #59c869 #1b8d59 #267b5e #10540b #8ae95b #11323b #267b5e #92e95e #8def5c #346337 empty empty 
+empty empty #182841 #182841 #192e4b #182841 #0e9656 #1c904f #21963e #182841 #0a463e #15514f #0b1a37 empty empty 
+empty empty empty empty empty empty #182841 #182b49 #1c2d4b empty empty empty empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 

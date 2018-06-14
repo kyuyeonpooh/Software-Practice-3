@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 2 0 3 0 4 0 0 0 0 0 
+0 0 0 4 3 1 3 1 1 3 5 0 0 0 0 
+8 10 12 5 5 3 5 5 3 5 6 13 10 8 6 
+0 0 0 0 0 0 0 8 
+0 0 0 0 0 2 3 3 
+0 0 0 0 0 4 2 4 
+0 0 0 0 0 0 4 5 
+0 0 0 0 3 1 1 5 
+0 0 0 0 0 0 3 4 
+0 0 0 0 3 1 1 4 
+0 0 0 0 3 1 1 4 
+0 0 0 0 3 1 1 4 
+0 0 0 0 0 0 4 5 
+0 0 0 0 0 5 2 5 
+0 0 0 0 0 4 2 4 
+0 0 0 0 0 0 0 10 
+0 0 0 0 0 0 0 9 
+0 0 0 0 0 0 0 7 
+empty empty empty #339300 #359000 #399500 #3b9700 #3b9700 #399500 #359100 #339300 empty empty empty empty 
+empty empty #339300 #399600 empty #3b9900 #3b9900 #3b9900 empty #3b9900 #399600 #339300 empty empty empty 
+empty #339300 #399600 #3a9800 #3a9800 empty #459d0e #3b9900 empty #3a9800 #3a9800 #399700 #339300 empty empty 
+#339300 #339300 #389600 #389600 empty empty empty empty empty #389600 #389600 #389600 #369400 #339300 empty 
+#308d00 #359500 #359500 empty empty #2b8800 empty #3a9800 empty empty #359500 #359500 #359500 #339300 #339300 
+#308f00 #339300 #339300 empty empty empty empty empty empty empty empty #339300 #339300 #319000 #339300 
+#309000 #319200 #319200 empty #3b9808 empty empty empty empty #3b9900 empty #319200 #319200 #339300 #339300 
+#2e8e00 #2f9000 #2f9000 empty #2b8800 empty empty empty empty #3b9900 empty #2f9000 #2f9000 #2e8f00 #339300 
+#2c8b00 #2e8e00 #2e8e00 empty #2b8800 empty empty empty empty #2b8800 empty #2e8e00 #2e8e00 #339300 #339300 
+#298600 #2d8c00 #2d8c00 #2d8c00 empty empty empty empty empty empty #339300 #339300 #339300 #339300 #339300 
+#288400 #288400 #2c8a00 #2c8a00 #2c8a00 empty #2b8800 #2c8a00 empty #339300 #339300 #339300 #2c8900 #267f00 empty 
+empty #288400 #2b8700 #2b8800 #2b8800 empty #2b8800 #2b8800 empty #2b8800 #2b8800 #339300 #288200 empty empty 
+empty empty #288400 #298600 #2a8700 #2a8700 #2a8700 #2a8700 #2a8700 #2a8700 #339300 #288400 empty empty empty 
+empty empty empty #288400 #278100 #288300 #2a8700 #2a8700 #288400 #278100 #288400 #288400 empty empty empty 
+empty empty empty empty #2a8700 #2a8700 #288400 #2a8700 #2a8700 #2a8700 #2a8700 empty empty empty empty 

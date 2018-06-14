@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TableLayout
+            android:id="@+id/table_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:stretchColumns="*">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_height="20dp"
+                    android:layout_span="3" />
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_height="55dp"
+                    android:layout_span="3"
+                    android:gravity="center_horizontal"
+                    android:textSize="30sp" />
+            </TableRow>
+
+        </TableLayout>
+
+        <ImageView
+            android:id="@+id/star1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:clickable="false"
+            android:paddingRight="160dp"
+            android:src="@drawable/yellow_star2"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/star2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:clickable="false"
+            android:src="@drawable/yellow_star2"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/star3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:clickable="false"
+            android:paddingLeft="160dp"
+            android:src="@drawable/yellow_star2"
+            android:visibility="invisible" />
+
+    </FrameLayout>
+
+</ScrollView>

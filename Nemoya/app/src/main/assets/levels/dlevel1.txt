@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 7 0 0 0 0 
+0 0 0 0 0 2 0 0 0 0 2 4 2 0 0 
+0 0 5 8 9 9 14 14 14 13 1 7 5 0 0 
+0 0 0 0 0 0 0 3 
+0 0 0 0 0 0 0 5 
+0 0 0 0 0 0 0 7 
+0 0 0 0 0 0 0 7 
+0 0 0 0 0 0 0 7 
+0 0 0 0 0 0 0 8 
+0 0 0 0 0 0 0 8 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 8 2 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 0 11 
+0 0 0 0 0 0 7 1 
+0 0 0 0 0 0 0 9 
+0 0 0 0 0 0 0 0 
+empty empty empty empty empty empty #c3c3c3 #c3c3c3 #c3c3c3 empty empty empty empty empty empty 
+empty empty empty empty empty #b8b9bb #b8b9bb #b8b9bb #b8b9bb #b8b9bb empty empty empty empty empty 
+empty empty empty empty empty #b8b9bb #e5c5c6 #e5c5c6 #b8b9bb #b8b9bb #b8b9bb #b8b9bb empty empty empty 
+empty empty empty empty empty empty #b8b9bb #e5c5c6 #b8b9bb #b8b9bb #000000 #b8b9bb #b8b9bb empty empty 
+empty empty empty empty empty empty #858f90 #858f90 #b8b9bb #b8b9bb #b8b9bb #b8b9bb #b8b9bb empty empty 
+empty empty empty empty #858f90 #879192 #858f90 #858f90 #858f90 #b8b9bb #b8b9bb #b8b9bb empty empty empty 
+empty empty empty #858f90 #858f90 #858f90 #858f90 #858f90 #858f90 #858f90 #858f90 empty empty empty empty 
+empty empty #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 empty empty 
+empty empty #baf076 #e7f1f3 #baf076 #eef4f4 #baf076 #baf076 #baf076 #d9e3e2 #baf076 #baf076 #baf076 empty empty 
+empty empty #baf076 #baf076 #baf076 #baf076 #baf076 #e2f1ee #baf076 #baf076 empty #baf076 #baf076 empty empty 
+empty empty #baf076 #baf076 #eff3f6 #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 empty empty 
+empty empty #baf076 #edf6fb #baf076 #baf076 #baf076 #baf076 #deecec #baf076 #baf076 #baf076 #baf076 empty empty 
+empty empty empty #baf076 #baf076 #ecf3f9 #baf076 #e4eeed #baf076 #baf076 empty #baf076 empty empty empty 
+empty empty empty #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 #baf076 empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 

@@ -1,0 +1,38 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 6 6 7 7 7 0 8 5 10 1 1 0 0 0 
+6 1 1 1 1 1 10 2 2 1 6 5 8 4 0 
+0 0 0 0 0 0 0 2 
+0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 3 1 
+0 0 0 0 0 0 4 1 
+0 0 0 0 0 0 8 2 
+0 0 0 0 0 0 0 13 
+0 0 0 0 0 0 0 14 
+0 0 0 0 0 0 8 5 
+0 0 0 0 0 0 8 4 
+0 0 0 0 0 0 8 3 
+0 0 0 0 0 0 7 1 
+0 0 0 0 0 0 1 3 
+0 0 0 0 0 0 0 9 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+empty empty empty empty empty empty empty empty empty empty #22323f #1f2e41 empty empty empty 
+empty empty empty empty empty empty empty empty empty #0a1145 empty empty #000000 empty empty 
+empty empty empty empty empty empty empty #09144a #09144a #1a154b empty empty #000000 empty empty 
+empty empty empty empty empty empty #09144a #1d1f34 #f3f4a4 #f9f5b5 empty empty #000000 empty empty 
+empty empty empty #09144a #09144a #09144a #09144a #f3efa5 #f2ee97 #f3efa5 #eef0af empty #efef95 #000000 empty 
+empty #000000 #335062 #77fd8e #77fd8e #89f997 #09144a #070c34 #efef95 #efef95 #efef95 #f3f182 #efef95 #000000 empty 
+#000000 #77fd8e #77fd8e #77fd8e #0d283d #87f9a2 #77fd8e #afbed3 #000033 #efef95 #000000 #05021f #fbf88f #000000 empty 
+#000000 #3b6269 #77fd8e #7dff92 #77fd8e #77fd8e #77fd8e #010729 empty #0b175f #efef95 #071228 #efef95 #191c3d empty 
+#161c4e #77fd8e #488063 #0d283d #77ed8f #0d283d #77fd8e #000b2e empty #0e155b #efef95 #efef95 #000000 empty empty 
+#000000 #617a7e #77fd8e #77fd8e #2c5944 #79f18d #77fd8e #000b41 empty #050b45 #efef95 #050e45 empty empty empty 
+#000000 #404972 #404972 #404972 #2f375e #0c1443 #070b38 empty empty #14195d empty empty empty empty empty 
+#000000 empty empty empty empty empty #020f31 #131546 #2e2e62 empty empty empty empty empty empty 
+empty #000000 #000000 #efef95 #efef95 #000940 #efef95 #efef95 #efef95 #070d49 empty empty empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty 
